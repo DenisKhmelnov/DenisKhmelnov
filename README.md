@@ -4,7 +4,7 @@ My name is Denis and I'm a Python Web developer. I'm from Russia, living in Ekat
 
 ## &#x270b; About Me
 
-- 🔭 I'm curious about all fields of computer science from logic gates to high level programming languages.
+- 🔭 I'm curious about all fields of computer science, from logic gates to high level programming languages.
 - 🖥️In my free time I like to practice my skills on [![](https://img.shields.io/badge/Codewars-informational?style=flat&logo=Codewars&logoColor=white&color=orange)](https://www.codewars.com/users/DenisKhmelnov) and learn something new from online courses.
 - 📫Please feel free to contact me [![](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/DenisKhmelnov)
 
